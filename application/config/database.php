@@ -101,10 +101,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '42.121.128.205',
-	'username' => 'pindan',
-	'password' => 'pindan.me.@.123',
-	'database' => 'pindan_me',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => 'root',
+	'database' => 'db',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => TRUE,
